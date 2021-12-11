@@ -9,7 +9,7 @@
 	<Authors>alanedwardes</Authors>
 	<Description>A base class StringEnum to inherit from for string based enums, compatible with System.Text.Json</Description>
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
-	<PackageProjectUrl>https://github.com/alanedwardes/Ae.Dns</PackageProjectUrl>
+	<PackageProjectUrl>https://github.com/alanedwardes/Ae.StringEnum</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
