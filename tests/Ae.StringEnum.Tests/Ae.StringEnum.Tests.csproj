@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\src\Ae.StringEnum.csproj" />
+    <ProjectReference Include="..\..\src\Ae.StringEnum\Ae.StringEnum.csproj" />
   </ItemGroup>
 
 </Project>
